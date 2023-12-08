@@ -16,7 +16,6 @@
   git push origin examples-hr-isimsoyisim
 ```
 
-```bash
-  // remote'da yer alan tüm branch listesini getirir
-  git branch -r
-```
+- **git fetch --all**: This command fetches updates from all your remotes. It's a good practice to run this before listing branches to ensure you have the latest information from the remote repository.
+
+- **git branch -r**: This command lists all remote branches. The -r flag stands for "remote."
