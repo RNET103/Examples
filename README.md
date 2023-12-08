@@ -15,3 +15,8 @@
 ```bash
   git push origin examples-hr-isimsoyisim
 ```
+
+```bash
+  // remote'da yer alan tüm branch listesini getirir
+  git branch -r
+```
