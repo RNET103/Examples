@@ -18,4 +18,12 @@
 
 - **git fetch --all**: This command fetches updates from all your remotes. It's a good practice to run this before listing branches to ensure you have the latest information from the remote repository.
 
+  ```bash
+  git fetch --all
+  ```
+
 - **git branch -r**: This command lists all remote branches. The -r flag stands for "remote."
+
+  ```bash
+  git branch -r
+  ```
